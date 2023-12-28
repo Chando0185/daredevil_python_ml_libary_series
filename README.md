@@ -1,5 +1,5 @@
 # Welcome to Daredevil Python Machine Learning Library Series👑
-In this video we are going to discuss about Numpy Data Analysis Library.
+In this video we are going to discuss about Python Data Analysis Library.
 
 📸 Instagram: @knowledge_doctor.
 
